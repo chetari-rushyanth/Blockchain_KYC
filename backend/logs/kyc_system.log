@@ -1,0 +1,1522 @@
+2025-09-14 20:38:42,362 - app - INFO - Logging configured
+2025-09-14 20:38:42,549 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-14 20:38:42,729 - database.db_connection - INFO - Database indexes created successfully
+2025-09-14 20:38:42,730 - app - INFO - Database initialized
+2025-09-14 20:38:45,236 - app - INFO - Logging configured
+2025-09-14 20:38:45,396 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-14 20:38:45,403 - database.db_connection - INFO - Database indexes created successfully
+2025-09-14 20:38:45,403 - app - INFO - Database initialized
+2025-09-14 20:39:21,690 - app - INFO - Logging configured
+2025-09-14 20:39:21,842 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-14 20:39:21,848 - database.db_connection - INFO - Database indexes created successfully
+2025-09-14 20:39:21,848 - app - INFO - Database initialized
+2025-09-14 20:39:24,549 - app - INFO - Model loader ready (models load on demand)
+2025-09-14 20:39:25,325 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-14 20:39:25,355 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-14 20:39:25,377 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-14 20:39:25,408 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-14 20:39:25,428 - app - INFO - KYC routes registered at /api/v1/kyc
+2025-09-14 20:39:25,432 - app - INFO - Auth routes registered at /api/v1/auth
+2025-09-14 20:39:25,438 - app - INFO - Admin routes registered at /api/v1/admin
+2025-09-14 20:39:25,460 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.10:5000
+2025-09-14 20:39:25,460 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-14 20:39:25,462 - werkzeug - INFO -  * Restarting with stat
+2025-09-14 20:39:25,825 - app - INFO - Logging configured
+2025-09-14 20:39:26,017 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-14 20:39:26,024 - database.db_connection - INFO - Database indexes created successfully
+2025-09-14 20:39:26,024 - app - INFO - Database initialized
+2025-09-14 20:39:28,672 - app - INFO - Model loader ready (models load on demand)
+2025-09-14 20:39:29,417 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-14 20:39:29,450 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-14 20:39:29,486 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-14 20:39:29,496 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-14 20:39:29,515 - app - INFO - KYC routes registered at /api/v1/kyc
+2025-09-14 20:39:29,520 - app - INFO - Auth routes registered at /api/v1/auth
+2025-09-14 20:39:29,525 - app - INFO - Admin routes registered at /api/v1/admin
+2025-09-14 20:39:29,535 - werkzeug - WARNING -  * Debugger is active!
+2025-09-14 20:39:29,543 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-14 20:39:36,005 - app - INFO - Request: GET /
+2025-09-14 20:39:36,006 - app - INFO - Response: 200 /
+2025-09-14 20:39:36,006 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2025 20:39:36] "GET / HTTP/1.1" 200 -
+2025-09-14 20:39:40,645 - app - INFO - Request: GET /routes
+2025-09-14 20:39:40,646 - app - INFO - Response: 200 /routes
+2025-09-14 20:39:40,647 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2025 20:39:40] "GET /routes HTTP/1.1" 200 -
+2025-09-15 20:43:13,549 - app - INFO - Logging configured
+2025-09-15 20:43:18,596 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 20:43:18,621 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 20:43:18,623 - app - INFO - Database initialized
+2025-09-15 20:44:48,906 - app - INFO - Model loader ready (models load on demand)
+2025-09-15 20:45:06,547 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-15 20:45:08,620 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-15 20:45:10,721 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-15 20:45:12,799 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-15 20:45:13,230 - app - INFO - KYC routes registered at /api/v1/kyc
+2025-09-15 20:45:13,259 - app - INFO - Auth routes registered at /api/v1/auth
+2025-09-15 20:45:13,293 - app - INFO - Admin routes registered at /api/v1/admin
+2025-09-15 20:45:13,517 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-09-15 20:45:13,517 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 20:45:13,538 - werkzeug - INFO -  * Restarting with stat
+2025-09-15 20:45:14,630 - app - INFO - Logging configured
+2025-09-15 20:45:15,135 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 20:45:15,155 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 20:45:15,156 - app - INFO - Database initialized
+2025-09-15 20:45:22,805 - app - INFO - Model loader ready (models load on demand)
+2025-09-15 20:45:26,702 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-15 20:45:28,753 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-15 20:45:30,779 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-15 20:45:32,835 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-15 20:45:32,950 - app - INFO - KYC routes registered at /api/v1/kyc
+2025-09-15 20:45:32,985 - app - INFO - Auth routes registered at /api/v1/auth
+2025-09-15 20:45:33,021 - app - INFO - Admin routes registered at /api/v1/admin
+2025-09-15 20:45:33,081 - werkzeug - WARNING -  * Debugger is active!
+2025-09-15 20:45:33,141 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-15 20:45:33,636 - app - INFO - Request: GET /routes
+2025-09-15 20:45:33,637 - app - INFO - Response: 200 /routes
+2025-09-15 20:45:33,640 - werkzeug - INFO - 127.0.0.1 - - [15/Sep/2025 20:45:33] "GET /routes HTTP/1.1" 200 -
+2025-09-15 22:16:55,804 - app - INFO - Logging configured
+2025-09-15 22:17:04,225 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 22:17:04,242 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 22:17:04,243 - app - INFO - Database initialized
+2025-09-15 22:18:39,372 - app - INFO - Model loader ready (models load on demand)
+2025-09-15 22:19:00,585 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-15 22:19:02,679 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:19:04,845 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:19:06,920 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:19:07,890 - app - INFO - KYC routes registered at /api/v1/kyc
+2025-09-15 22:19:07,933 - app - INFO - Auth routes registered at /api/v1/auth
+2025-09-15 22:19:07,985 - app - INFO - Admin routes registered at /api/v1/admin
+2025-09-15 22:19:08,401 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-09-15 22:19:08,403 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 22:19:08,457 - werkzeug - INFO -  * Restarting with stat
+2025-09-15 22:19:10,126 - app - INFO - Logging configured
+2025-09-15 22:19:10,774 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 22:19:10,809 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 22:19:10,810 - app - INFO - Database initialized
+2025-09-15 22:19:21,124 - app - INFO - Model loader ready (models load on demand)
+2025-09-15 22:19:26,931 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-15 22:19:28,966 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:19:31,014 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:19:33,086 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:19:33,173 - app - INFO - KYC routes registered at /api/v1/kyc
+2025-09-15 22:19:33,202 - app - INFO - Auth routes registered at /api/v1/auth
+2025-09-15 22:19:33,234 - app - INFO - Admin routes registered at /api/v1/admin
+2025-09-15 22:19:33,306 - werkzeug - WARNING -  * Debugger is active!
+2025-09-15 22:19:33,354 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-15 22:21:08,576 - app - INFO - Request: GET /routes
+2025-09-15 22:21:08,577 - app - INFO - Response: 200 /routes
+2025-09-15 22:21:08,580 - werkzeug - INFO - 127.0.0.1 - - [15/Sep/2025 22:21:08] "GET /routes HTTP/1.1" 200 -
+2025-09-15 22:33:52,211 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-15 22:33:53,890 - werkzeug - INFO -  * Restarting with stat
+2025-09-15 22:33:58,853 - app - INFO - Logging configured
+2025-09-15 22:34:04,696 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 22:34:04,715 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 22:34:04,716 - app - INFO - Database initialized
+2025-09-15 22:34:34,756 - app - INFO - Logging configured
+2025-09-15 22:34:35,137 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 22:34:35,150 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 22:34:35,151 - app - INFO - Database initialized
+2025-09-15 22:35:18,808 - app - INFO - Model loader ready (models load on demand)
+2025-09-15 22:35:33,097 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-15 22:35:35,189 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:35:37,302 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:35:39,362 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:35:40,191 - app - INFO - KYC routes registered at /api/v1/kyc
+2025-09-15 22:35:40,386 - app - INFO - Auth routes registered at /api/v1/auth
+2025-09-15 22:35:40,436 - app - INFO - Admin routes registered at /api/v1/admin
+2025-09-15 22:35:40,665 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-09-15 22:35:40,666 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 22:35:40,701 - werkzeug - INFO -  * Restarting with stat
+2025-09-15 22:35:41,721 - app - INFO - Logging configured
+2025-09-15 22:35:42,269 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 22:35:42,304 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 22:35:42,305 - app - INFO - Database initialized
+2025-09-15 22:35:47,793 - app - INFO - Model loader ready (models load on demand)
+2025-09-15 22:35:51,578 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-15 22:35:53,611 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:35:55,661 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:35:57,706 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-15 22:35:57,788 - app - INFO - KYC routes registered at /api/v1/kyc
+2025-09-15 22:35:57,837 - app - INFO - Auth routes registered at /api/v1/auth
+2025-09-15 22:35:57,858 - app - INFO - Admin routes registered at /api/v1/admin
+2025-09-15 22:35:57,886 - werkzeug - WARNING -  * Debugger is active!
+2025-09-15 22:35:57,903 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-15 23:08:09,418 - app - INFO - Request: GET /routes
+2025-09-15 23:08:09,421 - app - INFO - Response: 200 /routes
+2025-09-15 23:08:09,423 - werkzeug - INFO - 127.0.0.1 - - [15/Sep/2025 23:08:09] "GET /routes HTTP/1.1" 200 -
+2025-09-15 23:17:11,372 - app - INFO - Logging configured successfully
+2025-09-15 23:17:11,766 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 23:17:11,789 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 23:17:11,790 - app - INFO - Database initialized successfully
+2025-09-15 23:17:16,462 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-15 23:17:16,462 - app - INFO - Starting blueprint registration...
+2025-09-15 23:17:19,760 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-15 23:17:21,828 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-15 23:17:23,886 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-15 23:17:25,939 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-15 23:17:26,117 - app - INFO - Blueprint registration completed
+2025-09-15 23:17:26,227 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2025-09-15 23:17:26,228 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 23:17:26,237 - werkzeug - INFO -  * Restarting with stat
+2025-09-15 23:17:27,132 - app - INFO - Logging configured successfully
+2025-09-15 23:17:27,485 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-15 23:17:27,499 - database.db_connection - INFO - Database indexes created successfully
+2025-09-15 23:17:27,499 - app - INFO - Database initialized successfully
+2025-09-15 23:17:32,359 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-15 23:17:32,360 - app - INFO - Starting blueprint registration...
+2025-09-15 23:17:35,751 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-15 23:17:37,821 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-15 23:17:39,877 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-15 23:17:41,909 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-15 23:17:42,106 - app - INFO - Blueprint registration completed
+2025-09-15 23:17:42,152 - werkzeug - WARNING -  * Debugger is active!
+2025-09-15 23:17:42,170 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-15 23:18:25,598 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-15 23:18:25,601 - app - INFO - Response: 200 for GET /routes
+2025-09-15 23:18:25,603 - werkzeug - INFO - 127.0.0.1 - - [15/Sep/2025 23:18:25] "GET /routes HTTP/1.1" 200 -
+2025-09-15 23:19:01,592 - app - INFO - Request: GET / from 127.0.0.1
+2025-09-15 23:19:01,593 - app - INFO - Response: 200 for GET /
+2025-09-15 23:19:01,594 - werkzeug - INFO - 127.0.0.1 - - [15/Sep/2025 23:19:01] "GET / HTTP/1.1" 200 -
+2025-09-16 19:20:21,562 - app - INFO - Logging configured successfully
+2025-09-16 19:20:24,207 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 19:20:24,226 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 19:20:24,227 - app - INFO - Database initialized successfully
+2025-09-16 19:21:03,445 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 19:21:03,447 - app - INFO - Starting blueprint registration...
+2025-09-16 19:21:12,943 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-16 19:21:14,988 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-16 19:21:17,037 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-16 19:21:19,094 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-16 19:21:19,501 - app - INFO - Blueprint registration completed
+2025-09-16 19:21:19,686 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 19:21:19,688 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 19:21:19,710 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 19:21:20,234 - app - INFO - Logging configured successfully
+2025-09-16 19:21:20,455 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 19:21:20,462 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 19:21:20,462 - app - INFO - Database initialized successfully
+2025-09-16 19:21:24,583 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 19:21:24,584 - app - INFO - Starting blueprint registration...
+2025-09-16 19:21:27,741 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-16 19:21:29,798 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-16 19:21:31,846 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-16 19:21:33,904 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-16 19:21:33,998 - app - INFO - Blueprint registration completed
+2025-09-16 19:21:34,022 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 19:21:34,040 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 19:24:32,017 - app - INFO - Request: GET / from 127.0.0.1
+2025-09-16 19:24:32,018 - app - INFO - Response: 200 for GET /
+2025-09-16 19:24:32,019 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 19:24:32] "GET / HTTP/1.1" 200 -
+2025-09-16 19:40:47,820 - app - INFO - Logging configured successfully
+2025-09-16 19:40:48,008 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 19:40:48,017 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 19:40:48,018 - app - INFO - Database initialized successfully
+2025-09-16 19:40:50,711 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 19:40:50,711 - app - INFO - Starting blueprint registration...
+2025-09-16 19:40:51,518 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 19:40:51,607 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 19:40:51,641 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 19:40:51,672 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 19:40:51,722 - app - INFO - Blueprint registration completed
+2025-09-16 19:40:51,755 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 19:40:51,756 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 19:40:51,760 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 19:40:52,148 - app - INFO - Logging configured successfully
+2025-09-16 19:40:52,327 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 19:40:52,333 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 19:40:52,333 - app - INFO - Database initialized successfully
+2025-09-16 19:40:55,329 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 19:40:55,329 - app - INFO - Starting blueprint registration...
+2025-09-16 19:40:56,267 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 19:40:56,316 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 19:40:56,349 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 19:40:56,378 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 19:40:56,419 - app - INFO - Blueprint registration completed
+2025-09-16 19:40:56,435 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 19:40:56,444 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 19:42:08,826 - app - INFO - Request: GET /api/v1/admin/blockchain/status from 127.0.0.1
+2025-09-16 19:42:08,826 - app - INFO - Response: 401 for GET /api/v1/admin/blockchain/status
+2025-09-16 19:42:08,827 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 19:42:08] "[31m[1mGET /api/v1/admin/blockchain/status HTTP/1.1[0m" 401 -
+2025-09-16 19:42:49,915 - app - INFO - Request: GET /api/v1/auth/register from 127.0.0.1
+2025-09-16 19:42:49,915 - app - INFO - Response: 405 for GET /api/v1/auth/register
+2025-09-16 19:42:49,916 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 19:42:49] "[31m[1mGET /api/v1/auth/register HTTP/1.1[0m" 405 -
+2025-09-16 19:44:07,847 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 19:44:07,847 - routes.auth_routes - ERROR - Error in register_user: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-09-16 19:44:07,847 - app - INFO - Response: 500 for POST /api/v1/auth/register
+2025-09-16 19:44:07,848 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 19:44:07] "[35m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 500 -
+2025-09-16 20:13:33,214 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 20:13:34,374 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:13:34,793 - app - INFO - Logging configured successfully
+2025-09-16 20:13:34,987 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:13:34,992 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:13:34,992 - app - INFO - Database initialized successfully
+2025-09-16 20:13:37,671 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:13:37,672 - app - INFO - Starting blueprint registration...
+2025-09-16 20:13:38,455 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:13:38,485 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:13:38,521 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:13:38,556 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:13:38,611 - app - INFO - Blueprint registration completed
+2025-09-16 20:13:38,622 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:13:38,631 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:22:11,192 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 20:22:12,324 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:22:12,714 - app - INFO - Logging configured successfully
+2025-09-16 20:22:12,931 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:22:12,938 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:22:12,938 - app - INFO - Database initialized successfully
+2025-09-16 20:22:16,012 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:22:16,012 - app - INFO - Starting blueprint registration...
+2025-09-16 20:22:16,838 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:22:16,857 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:16,891 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:16,920 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:16,985 - app - INFO - Blueprint registration completed
+2025-09-16 20:22:16,999 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:22:17,009 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:22:27,921 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 20:22:28,797 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:22:29,157 - app - INFO - Logging configured successfully
+2025-09-16 20:22:29,385 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:22:29,391 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:22:29,391 - app - INFO - Database initialized successfully
+2025-09-16 20:22:32,197 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:22:32,198 - app - INFO - Starting blueprint registration...
+2025-09-16 20:22:33,015 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:22:33,059 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:33,080 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:33,111 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:33,172 - app - INFO - Blueprint registration completed
+2025-09-16 20:22:33,186 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:22:33,195 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:22:43,098 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 20:22:44,178 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:22:44,516 - app - INFO - Logging configured successfully
+2025-09-16 20:22:44,716 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:22:44,722 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:22:44,722 - app - INFO - Database initialized successfully
+2025-09-16 20:22:47,693 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:22:47,694 - app - INFO - Starting blueprint registration...
+2025-09-16 20:22:48,540 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:22:48,573 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:48,606 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:48,639 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:22:48,689 - app - INFO - Blueprint registration completed
+2025-09-16 20:22:48,703 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:22:48,712 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:23:13,579 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 20:23:14,565 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:23:14,940 - app - INFO - Logging configured successfully
+2025-09-16 20:23:15,109 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:23:15,115 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:23:15,115 - app - INFO - Database initialized successfully
+2025-09-16 20:23:17,993 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:23:17,993 - app - INFO - Starting blueprint registration...
+2025-09-16 20:23:18,853 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:23:18,884 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:18,904 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:18,935 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:19,023 - app - INFO - Blueprint registration completed
+2025-09-16 20:23:19,040 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:23:19,054 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:23:41,976 - app - INFO - Logging configured successfully
+2025-09-16 20:23:42,158 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:23:42,164 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:23:42,165 - app - INFO - Database initialized successfully
+2025-09-16 20:23:44,987 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:23:44,987 - app - INFO - Starting blueprint registration...
+2025-09-16 20:23:45,787 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:23:45,819 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:45,840 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:45,848 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:45,899 - app - INFO - Blueprint registration completed
+2025-09-16 20:23:45,918 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 20:23:45,919 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 20:23:45,921 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:23:46,413 - app - INFO - Logging configured successfully
+2025-09-16 20:23:46,626 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:23:46,634 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:23:46,634 - app - INFO - Database initialized successfully
+2025-09-16 20:23:49,528 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:23:49,528 - app - INFO - Starting blueprint registration...
+2025-09-16 20:23:50,368 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:23:50,394 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:50,405 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:50,436 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:23:50,479 - app - INFO - Blueprint registration completed
+2025-09-16 20:23:50,495 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:23:50,504 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:23:54,967 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 20:23:54,967 - routes.auth_routes - ERROR - Registration failed due to system error
+Traceback (most recent call last):
+  File "D:\AI-Enabled-KYC_2\backend\routes\auth_routes.py", line 24, in register_user
+    data = request.get_json()
+  File "D:\tfenv\lib\site-packages\werkzeug\wrappers\request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "D:\tfenv\lib\site-packages\flask\wrappers.py", line 214, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "D:\tfenv\lib\site-packages\werkzeug\wrappers\request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-09-16 20:23:55,003 - app - INFO - Response: 500 for POST /api/v1/auth/register
+2025-09-16 20:23:55,004 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 20:23:55] "[35m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 500 -
+2025-09-16 20:51:53,045 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 20:51:54,742 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:51:55,964 - app - INFO - Logging configured successfully
+2025-09-16 20:51:56,389 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:51:56,403 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:51:56,404 - app - INFO - Database initialized successfully
+2025-09-16 20:52:02,831 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:52:02,832 - app - INFO - Starting blueprint registration...
+2025-09-16 20:52:04,709 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:52:04,787 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:52:04,811 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:52:04,837 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:52:05,069 - app - INFO - Blueprint registration completed
+2025-09-16 20:52:05,142 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:52:05,192 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:52:05,782 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 20:52:05,783 - app - INFO - Response: 200 for POST /api/v1/auth/register
+2025-09-16 20:52:05,785 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 20:52:05] "POST /api/v1/auth/register HTTP/1.1" 200 -
+2025-09-16 20:53:08,050 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 20:53:09,434 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:53:10,187 - app - INFO - Logging configured successfully
+2025-09-16 20:53:10,601 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:53:10,615 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:53:10,616 - app - INFO - Database initialized successfully
+2025-09-16 20:53:17,495 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:53:17,496 - app - INFO - Starting blueprint registration...
+2025-09-16 20:53:19,029 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:53:19,096 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:53:19,164 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:53:19,196 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:53:19,419 - app - INFO - Blueprint registration completed
+2025-09-16 20:53:19,452 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:53:19,474 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:55:57,503 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 20:55:59,332 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 20:56:00,316 - app - INFO - Logging configured successfully
+2025-09-16 20:56:00,766 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 20:56:00,781 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 20:56:00,782 - app - INFO - Database initialized successfully
+2025-09-16 20:56:10,178 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 20:56:10,179 - app - INFO - Starting blueprint registration...
+2025-09-16 20:56:13,120 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 20:56:13,227 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:56:13,290 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:56:13,351 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 20:56:13,708 - app - INFO - Blueprint registration completed
+2025-09-16 20:56:13,781 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 20:56:13,808 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 20:56:14,668 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 20:56:14,669 - routes.auth_routes - INFO - Starting user registration process
+2025-09-16 20:56:14,671 - routes.auth_routes - ERROR - Failed to parse JSON: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-09-16 20:56:14,674 - app - INFO - Response: 400 for POST /api/v1/auth/register
+2025-09-16 20:56:14,677 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 20:56:14] "[31m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 400 -
+2025-09-16 21:00:02,821 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 21:00:02,822 - routes.auth_routes - INFO - Starting user registration process
+2025-09-16 21:00:02,822 - routes.auth_routes - ERROR - Failed to parse JSON: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-09-16 21:00:02,824 - app - INFO - Response: 400 for POST /api/v1/auth/register
+2025-09-16 21:00:02,825 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 21:00:02] "[31m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 400 -
+2025-09-16 21:06:34,786 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 21:06:34,787 - routes.auth_routes - INFO - Starting user registration process
+2025-09-16 21:06:34,787 - routes.auth_routes - ERROR - Failed to parse JSON: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-09-16 21:06:34,788 - app - INFO - Response: 400 for POST /api/v1/auth/register
+2025-09-16 21:06:34,789 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 21:06:34] "[31m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 400 -
+2025-09-16 21:06:49,801 - app - INFO - Logging configured successfully
+2025-09-16 21:06:50,137 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 21:06:50,164 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 21:06:50,165 - app - INFO - Database initialized successfully
+2025-09-16 21:06:58,076 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 21:06:58,077 - app - INFO - Starting blueprint registration...
+2025-09-16 21:07:00,474 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 21:07:00,530 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 21:07:00,556 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 21:07:00,577 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 21:07:00,716 - app - INFO - Blueprint registration completed
+2025-09-16 21:07:00,786 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 21:07:00,787 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 21:07:00,794 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 21:07:01,829 - app - INFO - Logging configured successfully
+2025-09-16 21:07:02,210 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 21:07:02,224 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 21:07:02,225 - app - INFO - Database initialized successfully
+2025-09-16 21:07:07,457 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 21:07:07,457 - app - INFO - Starting blueprint registration...
+2025-09-16 21:07:09,710 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 21:07:09,808 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 21:07:09,863 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 21:07:09,926 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 21:07:10,060 - app - INFO - Blueprint registration completed
+2025-09-16 21:07:10,086 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 21:07:10,108 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 21:07:59,018 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 21:07:59,019 - routes.auth_routes - INFO - Starting user registration process
+2025-09-16 21:07:59,020 - routes.auth_routes - ERROR - Failed to parse JSON: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-09-16 21:07:59,021 - app - INFO - Response: 400 for POST /api/v1/auth/register
+2025-09-16 21:07:59,022 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 21:07:59] "[31m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 400 -
+2025-09-16 22:34:48,287 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 22:34:48,287 - routes.auth_routes - INFO - Starting user registration process
+2025-09-16 22:34:48,288 - routes.auth_routes - ERROR - Failed to parse JSON: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-09-16 22:34:48,289 - app - INFO - Response: 400 for POST /api/v1/auth/register
+2025-09-16 22:34:48,290 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 22:34:48] "[31m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 400 -
+2025-09-16 22:35:52,801 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 22:35:53,890 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:35:54,990 - app - INFO - Logging configured successfully
+2025-09-16 22:35:55,373 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:35:55,387 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:35:55,388 - app - INFO - Database initialized successfully
+2025-09-16 22:36:01,107 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:36:01,107 - app - INFO - Starting blueprint registration...
+2025-09-16 22:36:02,582 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:36:02,642 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:02,670 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:02,701 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:02,826 - app - INFO - Blueprint registration completed
+2025-09-16 22:36:02,857 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 22:36:02,882 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 22:36:13,809 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 22:36:15,073 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:36:15,924 - app - INFO - Logging configured successfully
+2025-09-16 22:36:16,349 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:36:16,372 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:36:16,373 - app - INFO - Database initialized successfully
+2025-09-16 22:36:21,692 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:36:21,694 - app - INFO - Starting blueprint registration...
+2025-09-16 22:36:23,898 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:36:23,995 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:24,062 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:24,113 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:24,408 - app - INFO - Blueprint registration completed
+2025-09-16 22:36:24,472 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 22:36:24,521 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 22:36:28,457 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 22:36:30,063 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:36:31,030 - app - INFO - Logging configured successfully
+2025-09-16 22:36:31,344 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:36:31,358 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:36:31,359 - app - INFO - Database initialized successfully
+2025-09-16 22:36:38,119 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:36:38,119 - app - INFO - Starting blueprint registration...
+2025-09-16 22:36:39,827 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:36:39,890 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:39,935 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:39,991 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:36:40,284 - app - INFO - Blueprint registration completed
+2025-09-16 22:36:40,346 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 22:36:40,390 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 22:38:27,879 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 22:38:27,880 - app - INFO - Response: 404 for POST /api/v1/auth/register
+2025-09-16 22:38:27,882 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 22:38:27] "[33mPOST /api/v1/auth/register HTTP/1.1[0m" 404 -
+2025-09-16 22:40:11,693 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-16 22:40:11,694 - app - INFO - Response: 200 for GET /routes
+2025-09-16 22:40:11,695 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 22:40:11] "GET /routes HTTP/1.1" 200 -
+2025-09-16 22:46:24,895 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 22:46:26,660 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:46:27,411 - app - INFO - Logging configured successfully
+2025-09-16 22:46:27,753 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:46:27,766 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:46:27,767 - app - INFO - Database initialized successfully
+2025-09-16 22:46:32,729 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:46:32,730 - app - INFO - Starting blueprint registration...
+2025-09-16 22:46:34,282 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:46:34,343 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:46:34,385 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:46:34,418 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:46:34,556 - app - INFO - Blueprint registration completed
+2025-09-16 22:46:34,601 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 22:46:34,621 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 22:46:38,977 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 22:46:40,609 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:46:41,716 - app - INFO - Logging configured successfully
+2025-09-16 22:46:42,035 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:46:42,047 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:46:42,048 - app - INFO - Database initialized successfully
+2025-09-16 22:46:55,105 - app - INFO - Logging configured successfully
+2025-09-16 22:46:55,423 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:46:55,434 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:46:55,434 - app - INFO - Database initialized successfully
+2025-09-16 22:47:00,117 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:47:00,117 - app - INFO - Starting blueprint registration...
+2025-09-16 22:47:01,557 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:47:01,626 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:47:01,684 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:47:01,715 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:47:01,892 - app - INFO - Blueprint registration completed
+2025-09-16 22:47:01,949 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 22:47:01,951 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 22:47:01,956 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:47:02,701 - app - INFO - Logging configured successfully
+2025-09-16 22:47:03,075 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:47:03,094 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:47:03,094 - app - INFO - Database initialized successfully
+2025-09-16 22:47:07,956 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:47:07,957 - app - INFO - Starting blueprint registration...
+2025-09-16 22:47:09,364 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:47:09,422 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:47:09,452 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:47:09,482 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:47:09,579 - app - INFO - Blueprint registration completed
+2025-09-16 22:47:09,607 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 22:47:09,626 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 22:47:38,809 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-16 22:47:38,811 - app - INFO - Response: 200 for GET /routes
+2025-09-16 22:47:38,813 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 22:47:38] "GET /routes HTTP/1.1" 200 -
+2025-09-16 22:50:55,935 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 22:50:57,447 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:50:58,179 - app - INFO - Logging configured successfully
+2025-09-16 22:50:58,497 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:50:58,511 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:50:58,512 - app - INFO - Database initialized successfully
+2025-09-16 22:51:12,063 - app - INFO - Logging configured successfully
+2025-09-16 22:51:12,374 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:51:12,390 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:51:12,390 - app - INFO - Database initialized successfully
+2025-09-16 22:51:17,112 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:51:17,113 - app - INFO - Starting blueprint registration...
+2025-09-16 22:51:18,644 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:51:18,713 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:51:18,773 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:51:18,807 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:51:19,023 - app - INFO - Blueprint registration completed
+2025-09-16 22:51:19,104 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 22:51:19,105 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 22:51:19,113 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:51:19,986 - app - INFO - Logging configured successfully
+2025-09-16 22:51:20,338 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:51:20,391 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:51:20,391 - app - INFO - Database initialized successfully
+2025-09-16 22:51:25,693 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:51:25,693 - app - INFO - Starting blueprint registration...
+2025-09-16 22:51:27,222 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:51:27,296 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:51:27,355 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:51:27,401 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:51:27,638 - app - INFO - Blueprint registration completed
+2025-09-16 22:51:27,708 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 22:51:27,730 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 22:52:39,741 - app - INFO - Request: GET /routes  from 127.0.0.1
+2025-09-16 22:52:39,742 - app - INFO - Response: 404 for GET /routes 
+2025-09-16 22:52:39,744 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 22:52:39] "[33mGET /routes%20 HTTP/1.1[0m" 404 -
+2025-09-16 22:55:32,235 - app - INFO - Logging configured successfully
+2025-09-16 22:55:32,607 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:55:32,622 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:55:32,622 - app - INFO - Database initialized successfully
+2025-09-16 22:55:38,244 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:55:38,245 - app - INFO - Starting blueprint registration...
+2025-09-16 22:55:39,802 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:55:39,872 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:55:39,907 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:55:39,937 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:55:40,012 - app - INFO - Blueprint registration completed
+2025-09-16 22:55:40,123 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 22:55:40,124 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 22:55:40,128 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:55:40,812 - app - INFO - Logging configured successfully
+2025-09-16 22:55:41,197 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:55:41,210 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:55:41,212 - app - INFO - Database initialized successfully
+2025-09-16 22:55:46,038 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:55:46,039 - app - INFO - Starting blueprint registration...
+2025-09-16 22:55:47,395 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:55:47,478 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:55:47,523 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:55:47,569 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:55:47,710 - app - INFO - Blueprint registration completed
+2025-09-16 22:55:47,773 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 22:55:47,840 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 22:56:30,858 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-16 22:56:30,860 - app - INFO - Response: 200 for GET /routes
+2025-09-16 22:56:30,862 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 22:56:30] "GET /routes HTTP/1.1" 200 -
+2025-09-16 22:58:14,443 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 22:58:15,952 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 22:58:17,065 - app - INFO - Logging configured successfully
+2025-09-16 22:58:17,642 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 22:58:17,668 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 22:58:17,669 - app - INFO - Database initialized successfully
+2025-09-16 22:58:24,544 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 22:58:24,544 - app - INFO - Starting blueprint registration...
+2025-09-16 22:58:25,992 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 22:58:26,036 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:58:26,081 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:58:26,110 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 22:58:26,242 - app - INFO - Blueprint registration completed
+2025-09-16 22:58:26,274 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 22:58:26,295 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 22:58:58,206 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-16 22:58:58,212 - app - INFO - Response: 200 for GET /routes
+2025-09-16 22:58:58,214 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 22:58:58] "GET /routes HTTP/1.1" 200 -
+2025-09-16 23:07:45,651 - app - INFO - Logging configured successfully
+2025-09-16 23:07:46,016 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:07:46,030 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:07:46,030 - app - INFO - Database initialized successfully
+2025-09-16 23:07:50,902 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:07:50,903 - app - INFO - Starting blueprint registration...
+2025-09-16 23:07:52,343 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:07:52,403 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:07:52,441 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:07:52,488 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:07:52,623 - app - INFO - Blueprint registration completed
+2025-09-16 23:07:52,685 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 23:07:52,686 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 23:07:52,693 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:07:53,500 - app - INFO - Logging configured successfully
+2025-09-16 23:07:53,828 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:07:53,842 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:07:53,842 - app - INFO - Database initialized successfully
+2025-09-16 23:07:58,472 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:07:58,473 - app - INFO - Starting blueprint registration...
+2025-09-16 23:07:59,976 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:08:00,039 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:08:00,081 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:08:00,117 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:08:00,215 - app - INFO - Blueprint registration completed
+2025-09-16 23:08:00,250 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:08:00,274 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:08:23,002 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-16 23:08:23,007 - app - INFO - Response: 200 for GET /routes
+2025-09-16 23:08:23,010 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 23:08:23] "GET /routes HTTP/1.1" 200 -
+2025-09-16 23:08:23,185 - app - INFO - Request: GET /favicon.ico from 127.0.0.1
+2025-09-16 23:08:23,187 - app - INFO - Response: 404 for GET /favicon.ico
+2025-09-16 23:08:23,190 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 23:08:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-16 23:08:50,180 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-16 23:08:50,181 - app - INFO - Response: 200 for GET /routes
+2025-09-16 23:08:50,182 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 23:08:50] "GET /routes HTTP/1.1" 200 -
+2025-09-16 23:12:10,226 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\app.py', reloading
+2025-09-16 23:12:11,990 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:12:12,953 - app - INFO - Logging configured successfully
+2025-09-16 23:12:13,314 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:12:13,330 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:12:13,331 - app - INFO - Database initialized successfully
+2025-09-16 23:12:19,132 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:12:19,134 - app - INFO - Starting blueprint registration...
+2025-09-16 23:12:20,621 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:12:20,700 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:12:20,748 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:12:20,795 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:12:20,875 - app - INFO - Blueprint registration completed
+2025-09-16 23:12:20,927 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:12:20,959 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:13:31,720 - app - INFO - Logging configured successfully
+2025-09-16 23:13:32,031 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:13:32,044 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:13:32,045 - app - INFO - Database initialized successfully
+2025-09-16 23:13:36,538 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:13:36,538 - app - INFO - Starting blueprint registration...
+2025-09-16 23:13:37,957 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:13:38,016 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:13:38,036 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:13:38,079 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:13:38,122 - app - INFO - Blueprint registration completed
+2025-09-16 23:13:38,210 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 23:13:38,211 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 23:13:38,214 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:13:38,992 - app - INFO - Logging configured successfully
+2025-09-16 23:13:39,386 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:13:39,413 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:13:39,414 - app - INFO - Database initialized successfully
+2025-09-16 23:13:44,027 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:13:44,028 - app - INFO - Starting blueprint registration...
+2025-09-16 23:13:45,245 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:13:45,307 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:13:45,349 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:13:45,380 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:13:45,422 - app - INFO - Blueprint registration completed
+2025-09-16 23:13:45,452 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:13:45,471 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:16:28,273 - app - INFO - Logging configured successfully
+2025-09-16 23:16:28,669 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:16:28,684 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:16:28,684 - app - INFO - Database initialized successfully
+2025-09-16 23:16:34,542 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:16:34,542 - app - INFO - Starting blueprint registration...
+2025-09-16 23:16:36,204 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:16:36,270 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:16:36,307 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:16:36,343 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:16:36,398 - app - INFO - Blueprint registration completed
+2025-09-16 23:16:36,468 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 23:16:36,469 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 23:16:36,474 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:16:37,389 - app - INFO - Logging configured successfully
+2025-09-16 23:16:37,778 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:16:37,792 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:16:37,792 - app - INFO - Database initialized successfully
+2025-09-16 23:16:42,852 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:16:42,852 - app - INFO - Starting blueprint registration...
+2025-09-16 23:16:44,153 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:16:44,213 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:16:44,258 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:16:44,289 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:16:44,330 - app - INFO - Blueprint registration completed
+2025-09-16 23:16:44,360 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:16:44,379 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:19:14,378 - app - INFO - Logging configured successfully
+2025-09-16 23:19:15,115 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:19:15,130 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:19:15,131 - app - INFO - Database initialized successfully
+2025-09-16 23:19:22,524 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:19:22,525 - app - INFO - Starting blueprint registration...
+2025-09-16 23:19:24,562 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:19:24,627 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:19:24,669 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:19:24,702 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:19:24,746 - app - INFO - Blueprint registration completed
+2025-09-16 23:19:24,799 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 23:19:24,800 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 23:19:24,804 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:19:25,703 - app - INFO - Logging configured successfully
+2025-09-16 23:19:26,101 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:19:26,116 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:19:26,117 - app - INFO - Database initialized successfully
+2025-09-16 23:19:33,176 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:19:33,177 - app - INFO - Starting blueprint registration...
+2025-09-16 23:19:35,429 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:19:35,517 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:19:35,573 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:19:35,620 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:19:35,712 - app - INFO - Blueprint registration completed
+2025-09-16 23:19:35,774 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:19:35,816 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:20:03,620 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-16 23:20:03,626 - app - INFO - Response: 200 for GET /routes
+2025-09-16 23:20:03,631 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 23:20:03] "GET /routes HTTP/1.1" 200 -
+2025-09-16 23:20:39,606 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-16 23:20:39,608 - app - INFO - Response: 200 for GET /routes
+2025-09-16 23:20:39,609 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 23:20:39] "GET /routes HTTP/1.1" 200 -
+2025-09-16 23:23:19,233 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 23:23:19,233 - app - INFO - Response: 404 for POST /api/v1/auth/register
+2025-09-16 23:23:19,234 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 23:23:19] "[33mPOST /api/v1/auth/register HTTP/1.1[0m" 404 -
+2025-09-16 23:23:25,684 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 23:23:25,685 - app - INFO - Response: 404 for POST /api/v1/auth/register
+2025-09-16 23:23:25,687 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 23:23:25] "[33mPOST /api/v1/auth/register HTTP/1.1[0m" 404 -
+2025-09-16 23:25:18,803 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:25:20,376 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:25:21,333 - app - INFO - Logging configured successfully
+2025-09-16 23:25:21,800 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:25:21,828 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:25:21,830 - app - INFO - Database initialized successfully
+2025-09-16 23:25:29,612 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:25:29,613 - app - INFO - Starting blueprint registration...
+2025-09-16 23:25:31,730 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:25:31,809 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:25:31,836 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:25:31,871 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:25:31,941 - app - INFO - Blueprint registration completed
+2025-09-16 23:25:31,971 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:25:31,993 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:25:35,776 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:25:37,005 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:25:37,976 - app - INFO - Logging configured successfully
+2025-09-16 23:25:38,400 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:25:38,415 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:25:38,415 - app - INFO - Database initialized successfully
+2025-09-16 23:25:46,250 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:25:46,251 - app - INFO - Starting blueprint registration...
+2025-09-16 23:25:48,662 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:25:48,724 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:25:48,764 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:25:48,798 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:25:48,843 - app - INFO - Blueprint registration completed
+2025-09-16 23:25:48,875 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:25:48,901 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:27:28,079 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 23:27:29,500 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:27:30,611 - app - INFO - Logging configured successfully
+2025-09-16 23:27:31,240 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:27:31,254 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:27:31,255 - app - INFO - Database initialized successfully
+2025-09-16 23:27:38,061 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:27:38,062 - app - INFO - Starting blueprint registration...
+2025-09-16 23:27:40,082 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:27:40,153 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:27:40,202 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:27:40,249 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:27:40,306 - app - INFO - Blueprint registration completed
+2025-09-16 23:27:40,347 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:27:40,374 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:28:00,883 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-16 23:28:00,884 - app - INFO - Response: 404 for POST /api/v1/auth/register
+2025-09-16 23:28:00,886 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 23:28:00] "[33mPOST /api/v1/auth/register HTTP/1.1[0m" 404 -
+2025-09-16 23:28:21,047 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-16 23:28:22,453 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:28:23,444 - app - INFO - Logging configured successfully
+2025-09-16 23:28:24,099 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:28:24,119 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:28:24,119 - app - INFO - Database initialized successfully
+2025-09-16 23:28:36,998 - app - INFO - Logging configured successfully
+2025-09-16 23:28:37,533 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:28:37,549 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:28:37,550 - app - INFO - Database initialized successfully
+2025-09-16 23:28:45,674 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:28:45,675 - app - INFO - Starting blueprint registration...
+2025-09-16 23:28:47,725 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:28:47,789 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:28:47,829 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:28:47,861 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:28:47,914 - app - INFO - Blueprint registration completed
+2025-09-16 23:28:47,972 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 23:28:47,973 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 23:28:47,980 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:28:48,904 - app - INFO - Logging configured successfully
+2025-09-16 23:28:49,359 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:28:49,375 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:28:49,375 - app - INFO - Database initialized successfully
+2025-09-16 23:28:57,051 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:28:57,052 - app - INFO - Starting blueprint registration...
+2025-09-16 23:28:59,026 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:28:59,078 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:28:59,104 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:28:59,128 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:28:59,179 - app - INFO - Blueprint registration completed
+2025-09-16 23:28:59,200 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:28:59,217 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:29:47,281 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:29:48,658 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:29:49,550 - app - INFO - Logging configured successfully
+2025-09-16 23:29:49,973 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:29:49,995 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:29:49,996 - app - INFO - Database initialized successfully
+2025-09-16 23:29:57,628 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:29:57,629 - app - INFO - Starting blueprint registration...
+2025-09-16 23:29:59,666 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:29:59,723 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:29:59,744 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:29:59,764 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:29:59,881 - app - INFO - Blueprint registration completed
+2025-09-16 23:29:59,912 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:29:59,938 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:30:11,424 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:30:12,468 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:30:13,380 - app - INFO - Logging configured successfully
+2025-09-16 23:30:13,810 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:30:13,833 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:30:13,834 - app - INFO - Database initialized successfully
+2025-09-16 23:30:26,840 - app - INFO - Logging configured successfully
+2025-09-16 23:30:27,247 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:30:27,263 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:30:27,263 - app - INFO - Database initialized successfully
+2025-09-16 23:30:33,934 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:30:33,934 - app - INFO - Starting blueprint registration...
+2025-09-16 23:30:35,799 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:30:35,860 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:30:35,903 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:30:35,936 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:30:35,982 - app - INFO - Blueprint registration completed
+2025-09-16 23:30:36,032 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 23:30:36,033 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 23:30:36,037 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:30:37,246 - app - INFO - Logging configured successfully
+2025-09-16 23:30:37,756 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:30:37,784 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:30:37,786 - app - INFO - Database initialized successfully
+2025-09-16 23:30:44,483 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:30:44,483 - app - INFO - Starting blueprint registration...
+2025-09-16 23:30:46,494 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:30:46,555 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:30:46,599 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:30:46,617 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:30:46,662 - app - INFO - Blueprint registration completed
+2025-09-16 23:30:46,695 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:30:46,717 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:31:10,928 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:31:12,181 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:31:13,227 - app - INFO - Logging configured successfully
+2025-09-16 23:31:13,750 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:31:13,768 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:31:13,769 - app - INFO - Database initialized successfully
+2025-09-16 23:31:20,984 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:31:20,985 - app - INFO - Starting blueprint registration...
+2025-09-16 23:31:22,932 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:31:22,980 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:23,015 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:23,048 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:23,215 - app - INFO - Blueprint registration completed
+2025-09-16 23:31:23,243 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:31:23,264 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:31:25,476 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:31:26,612 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:31:27,480 - app - INFO - Logging configured successfully
+2025-09-16 23:31:27,907 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:31:27,926 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:31:27,927 - app - INFO - Database initialized successfully
+2025-09-16 23:31:34,792 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:31:34,793 - app - INFO - Starting blueprint registration...
+2025-09-16 23:31:36,846 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:31:36,989 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:37,068 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:37,088 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:37,144 - app - INFO - Blueprint registration completed
+2025-09-16 23:31:37,207 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:31:37,301 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:31:40,124 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:31:41,559 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:31:42,374 - app - INFO - Logging configured successfully
+2025-09-16 23:31:42,777 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:31:42,806 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:31:42,807 - app - INFO - Database initialized successfully
+2025-09-16 23:31:50,169 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:31:50,171 - app - INFO - Starting blueprint registration...
+2025-09-16 23:31:52,343 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:31:52,403 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:52,436 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:52,483 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:31:52,585 - app - INFO - Blueprint registration completed
+2025-09-16 23:31:52,611 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:31:52,628 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:32:04,902 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:32:06,524 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:32:07,394 - app - INFO - Logging configured successfully
+2025-09-16 23:32:07,980 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:32:07,990 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:32:07,990 - app - INFO - Database initialized successfully
+2025-09-16 23:32:15,187 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:32:15,187 - app - INFO - Starting blueprint registration...
+2025-09-16 23:32:17,324 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:32:17,386 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:17,408 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:17,428 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:17,552 - app - INFO - Blueprint registration completed
+2025-09-16 23:32:17,583 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:32:17,602 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:32:21,366 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:32:22,415 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:32:23,242 - app - INFO - Logging configured successfully
+2025-09-16 23:32:23,730 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:32:23,744 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:32:23,745 - app - INFO - Database initialized successfully
+2025-09-16 23:32:30,702 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:32:30,703 - app - INFO - Starting blueprint registration...
+2025-09-16 23:32:32,686 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:32:32,782 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:32,818 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:32,863 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:32,956 - app - INFO - Blueprint registration completed
+2025-09-16 23:32:33,015 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:32:33,035 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:32:35,388 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-16 23:32:36,615 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:32:37,653 - app - INFO - Logging configured successfully
+2025-09-16 23:32:38,138 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:32:38,155 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:32:38,155 - app - INFO - Database initialized successfully
+2025-09-16 23:32:45,729 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:32:45,730 - app - INFO - Starting blueprint registration...
+2025-09-16 23:32:47,692 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:32:47,745 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:47,763 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:47,785 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:32:47,840 - app - INFO - Blueprint registration completed
+2025-09-16 23:32:47,866 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:32:47,885 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-16 23:33:01,844 - app - INFO - Logging configured successfully
+2025-09-16 23:33:02,206 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:33:02,222 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:33:02,222 - app - INFO - Database initialized successfully
+2025-09-16 23:33:08,585 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:33:08,586 - app - INFO - Starting blueprint registration...
+2025-09-16 23:33:10,539 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:33:10,627 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:33:10,686 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:33:10,723 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:33:10,812 - app - INFO - Blueprint registration completed
+2025-09-16 23:33:10,901 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-09-16 23:33:10,902 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 23:33:10,909 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 23:33:12,143 - app - INFO - Logging configured successfully
+2025-09-16 23:33:12,637 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-16 23:33:12,649 - database.db_connection - INFO - Database indexes created successfully
+2025-09-16 23:33:12,649 - app - INFO - Database initialized successfully
+2025-09-16 23:33:20,742 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-16 23:33:20,743 - app - INFO - Starting blueprint registration...
+2025-09-16 23:33:22,930 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-16 23:33:22,988 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:33:23,038 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:33:23,093 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-16 23:33:23,180 - app - INFO - Blueprint registration completed
+2025-09-16 23:33:23,229 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 23:33:23,256 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 13:02:42,081 - app - INFO - Logging configured successfully
+2025-09-17 13:02:48,242 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:02:48,294 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:02:48,296 - app - INFO - Database initialized successfully
+2025-09-17 13:03:56,963 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:03:56,964 - app - INFO - Starting blueprint registration...
+2025-09-17 13:04:12,224 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:04:12,405 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:04:12,461 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:04:12,496 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:04:12,584 - app - INFO - Blueprint registration completed
+2025-09-17 13:04:12,846 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-09-17 13:04:12,847 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 13:04:12,871 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 13:04:13,735 - app - INFO - Logging configured successfully
+2025-09-17 13:04:14,134 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:04:14,148 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:04:14,149 - app - INFO - Database initialized successfully
+2025-09-17 13:04:20,788 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:04:20,789 - app - INFO - Starting blueprint registration...
+2025-09-17 13:04:22,942 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:04:23,050 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:04:23,092 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:04:23,126 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:04:23,242 - app - INFO - Blueprint registration completed
+2025-09-17 13:04:23,319 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 13:04:23,378 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 13:11:43,002 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\utils\\security_utils.py', reloading
+2025-09-17 13:11:44,427 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 13:11:45,338 - app - INFO - Logging configured successfully
+2025-09-17 13:11:45,869 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:11:45,890 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:11:45,890 - app - INFO - Database initialized successfully
+2025-09-17 13:11:51,831 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:11:51,832 - app - INFO - Starting blueprint registration...
+2025-09-17 13:11:53,503 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:11:53,587 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:11:53,645 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:11:53,692 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:11:53,770 - app - INFO - Blueprint registration completed
+2025-09-17 13:11:53,803 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 13:11:53,838 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 13:13:02,901 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-17 13:13:04,492 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 13:13:05,328 - app - INFO - Logging configured successfully
+2025-09-17 13:13:05,892 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:13:05,905 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:13:05,905 - app - INFO - Database initialized successfully
+2025-09-17 13:13:11,697 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:13:11,698 - app - INFO - Starting blueprint registration...
+2025-09-17 13:13:13,266 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:13:13,332 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:13:13,370 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:13:13,403 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:13:13,488 - app - INFO - Blueprint registration completed
+2025-09-17 13:13:13,518 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 13:13:13,537 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 13:13:55,705 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-17 13:13:56,954 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 13:13:57,788 - app - INFO - Logging configured successfully
+2025-09-17 13:13:58,177 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:13:58,190 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:13:58,191 - app - INFO - Database initialized successfully
+2025-09-17 13:14:04,698 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:14:04,699 - app - INFO - Starting blueprint registration...
+2025-09-17 13:14:06,306 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:14:06,382 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:06,437 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:06,484 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:06,556 - app - INFO - Blueprint registration completed
+2025-09-17 13:14:06,607 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 13:14:06,641 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 13:14:15,495 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-17 13:14:17,278 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 13:14:18,449 - app - INFO - Logging configured successfully
+2025-09-17 13:14:18,862 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:14:18,875 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:14:18,875 - app - INFO - Database initialized successfully
+2025-09-17 13:14:30,602 - app - INFO - Logging configured successfully
+2025-09-17 13:14:30,978 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:14:30,997 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:14:30,998 - app - INFO - Database initialized successfully
+2025-09-17 13:14:36,427 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:14:36,428 - app - INFO - Starting blueprint registration...
+2025-09-17 13:14:38,407 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:14:38,467 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:38,512 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:38,543 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:38,587 - app - INFO - Blueprint registration completed
+2025-09-17 13:14:38,643 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-09-17 13:14:38,643 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 13:14:38,648 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 13:14:39,315 - app - INFO - Logging configured successfully
+2025-09-17 13:14:39,600 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:14:39,611 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:14:39,612 - app - INFO - Database initialized successfully
+2025-09-17 13:14:44,494 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:14:44,495 - app - INFO - Starting blueprint registration...
+2025-09-17 13:14:46,048 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:14:46,113 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:46,154 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:46,187 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:14:46,234 - app - INFO - Blueprint registration completed
+2025-09-17 13:14:46,270 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 13:14:46,307 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 13:17:40,207 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-17 13:17:40,208 - app - INFO - Response: 200 for POST /api/v1/auth/register
+2025-09-17 13:17:40,210 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:40] "POST /api/v1/auth/register HTTP/1.1" 200 -
+2025-09-17 13:23:12,857 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-17 13:23:14,680 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 13:23:16,085 - app - INFO - Logging configured successfully
+2025-09-17 13:23:16,563 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:23:16,585 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:23:16,586 - app - INFO - Database initialized successfully
+2025-09-17 13:23:25,953 - app - INFO - Logging configured successfully
+2025-09-17 13:23:26,258 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:23:26,272 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:23:26,274 - app - INFO - Database initialized successfully
+2025-09-17 13:23:31,143 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:23:31,143 - app - INFO - Starting blueprint registration...
+2025-09-17 13:23:32,776 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:23:32,839 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:23:32,881 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:23:32,916 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:23:32,975 - app - INFO - Blueprint registration completed
+2025-09-17 13:23:33,040 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-09-17 13:23:33,042 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 13:23:33,047 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 13:23:33,892 - app - INFO - Logging configured successfully
+2025-09-17 13:23:34,258 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 13:23:34,270 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 13:23:34,271 - app - INFO - Database initialized successfully
+2025-09-17 13:23:40,651 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 13:23:40,652 - app - INFO - Starting blueprint registration...
+2025-09-17 13:23:42,390 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 13:23:42,450 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:23:42,495 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:23:42,529 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 13:23:42,583 - app - INFO - Blueprint registration completed
+2025-09-17 13:23:42,618 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 13:23:42,644 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 13:24:28,381 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-17 13:24:28,483 - database.kyc_repository - INFO - User created with ID: 68ca6934600da12c74998897
+2025-09-17 13:24:28,488 - app - INFO - Response: 201 for POST /api/v1/auth/register
+2025-09-17 13:24:28,492 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 13:24:28] "[35m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 201 -
+2025-09-17 18:07:13,341 - app - INFO - Request: POST /api/v1/kyc/submit from 127.0.0.1
+2025-09-17 18:07:13,343 - app - INFO - Response: 401 for POST /api/v1/kyc/submit
+2025-09-17 18:07:13,345 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:07:13] "[31m[1mPOST /api/v1/kyc/submit HTTP/1.1[0m" 401 -
+2025-09-17 18:13:03,108 - app - INFO - Logging configured successfully
+2025-09-17 18:13:05,341 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:13:05,348 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:13:05,348 - app - INFO - Database initialized successfully
+2025-09-17 18:13:36,189 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:13:36,191 - app - INFO - Starting blueprint registration...
+2025-09-17 18:13:42,400 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:13:42,490 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:13:42,529 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:13:42,560 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:13:42,602 - app - INFO - Blueprint registration completed
+2025-09-17 18:13:42,693 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-09-17 18:13:42,694 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 18:13:42,708 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 18:13:43,023 - app - INFO - Logging configured successfully
+2025-09-17 18:13:43,183 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:13:43,189 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:13:43,190 - app - INFO - Database initialized successfully
+2025-09-17 18:13:45,881 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:13:45,882 - app - INFO - Starting blueprint registration...
+2025-09-17 18:13:46,675 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:13:46,721 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:13:46,756 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:13:46,788 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:13:46,807 - app - INFO - Blueprint registration completed
+2025-09-17 18:13:46,818 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 18:13:46,824 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 18:14:56,549 - app - INFO - Request: OPTIONS /api/v1/auth/register from 127.0.0.1
+2025-09-17 18:14:56,551 - app - INFO - Response: 200 for OPTIONS /api/v1/auth/register
+2025-09-17 18:14:56,552 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:14:56] "OPTIONS /api/v1/auth/register HTTP/1.1" 200 -
+2025-09-17 18:14:57,811 - app - INFO - Request: OPTIONS /api/v1/auth/register from 127.0.0.1
+2025-09-17 18:14:57,813 - app - INFO - Response: 200 for OPTIONS /api/v1/auth/register
+2025-09-17 18:14:57,814 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:14:57] "OPTIONS /api/v1/auth/register HTTP/1.1" 200 -
+2025-09-17 18:19:52,752 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\app.py', reloading
+2025-09-17 18:19:53,869 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 18:19:54,315 - app - INFO - Logging configured successfully
+2025-09-17 18:19:54,509 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:19:54,517 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:19:54,517 - app - INFO - Database initialized successfully
+2025-09-17 18:19:57,111 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:19:57,111 - app - INFO - Starting blueprint registration...
+2025-09-17 18:19:57,901 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:19:57,928 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:19:57,954 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:19:57,982 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:19:58,002 - app - INFO - Blueprint registration completed
+2025-09-17 18:19:58,013 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 18:19:58,020 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 18:19:59,487 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\app.py', reloading
+2025-09-17 18:20:00,210 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 18:20:00,568 - app - INFO - Logging configured successfully
+2025-09-17 18:20:00,763 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:20:00,769 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:20:00,770 - app - INFO - Database initialized successfully
+2025-09-17 18:20:03,641 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:20:03,641 - app - INFO - Starting blueprint registration...
+2025-09-17 18:20:04,487 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:20:04,507 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:04,534 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:04,568 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:04,590 - app - INFO - Blueprint registration completed
+2025-09-17 18:20:04,602 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 18:20:04,610 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 18:20:22,031 - app - INFO - Logging configured successfully
+2025-09-17 18:20:22,217 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:20:22,223 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:20:22,223 - app - INFO - Database initialized successfully
+2025-09-17 18:20:24,922 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:20:24,922 - app - INFO - Starting blueprint registration...
+2025-09-17 18:20:25,730 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:20:25,761 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:25,799 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:25,831 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:25,851 - app - INFO - Blueprint registration completed
+2025-09-17 18:20:25,873 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-09-17 18:20:25,873 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 18:20:25,876 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 18:20:26,253 - app - INFO - Logging configured successfully
+2025-09-17 18:20:26,420 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:20:26,426 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:20:26,427 - app - INFO - Database initialized successfully
+2025-09-17 18:20:29,262 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:20:29,263 - app - INFO - Starting blueprint registration...
+2025-09-17 18:20:30,126 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:20:30,156 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:30,179 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:30,209 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:20:30,227 - app - INFO - Blueprint registration completed
+2025-09-17 18:20:30,238 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 18:20:30,246 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 18:21:16,578 - app - INFO - Request: OPTIONS /api/v1/auth/register from 127.0.0.1
+2025-09-17 18:21:16,579 - app - INFO - Response: 200 for OPTIONS /api/v1/auth/register
+2025-09-17 18:21:16,580 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:21:16] "OPTIONS /api/v1/auth/register HTTP/1.1" 200 -
+2025-09-17 18:22:24,980 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\Test_Gui.py', reloading
+2025-09-17 18:22:26,281 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 18:22:26,667 - app - INFO - Logging configured successfully
+2025-09-17 18:22:26,845 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:22:26,850 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:22:26,851 - app - INFO - Database initialized successfully
+2025-09-17 18:22:29,587 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:22:29,587 - app - INFO - Starting blueprint registration...
+2025-09-17 18:22:30,393 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:22:30,420 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:22:30,432 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:22:30,463 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:22:30,482 - app - INFO - Blueprint registration completed
+2025-09-17 18:22:30,496 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 18:22:30,505 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 18:23:07,704 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-17 18:23:07,714 - database.kyc_repository - INFO - User created with ID: 68caaf33fad8218148478997
+2025-09-17 18:23:07,716 - app - INFO - Response: 201 for POST /api/v1/auth/register
+2025-09-17 18:23:07,720 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:23:07] "[35m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 201 -
+2025-09-17 18:28:36,387 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\Test_Gui.py', reloading
+2025-09-17 18:28:37,471 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 18:28:37,854 - app - INFO - Logging configured successfully
+2025-09-17 18:28:38,047 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:28:38,053 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:28:38,053 - app - INFO - Database initialized successfully
+2025-09-17 18:28:41,007 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:28:41,008 - app - INFO - Starting blueprint registration...
+2025-09-17 18:28:41,886 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:28:41,948 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:28:42,002 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:28:42,025 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:28:42,050 - app - INFO - Blueprint registration completed
+2025-09-17 18:28:42,063 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 18:28:42,071 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 18:29:30,030 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-17 18:29:30,032 - database.kyc_repository - INFO - User created with ID: 68cab0b2dac32b614466405c
+2025-09-17 18:29:30,033 - app - INFO - Response: 201 for POST /api/v1/auth/register
+2025-09-17 18:29:30,033 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:29:30] "[35m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 201 -
+2025-09-17 18:30:07,972 - app - INFO - Request: GET /api/v1/auth/user/68cab0b2dac32b614466405c from 127.0.0.1
+2025-09-17 18:30:07,979 - app - INFO - Response: 200 for GET /api/v1/auth/user/68cab0b2dac32b614466405c
+2025-09-17 18:30:07,980 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:30:07] "GET /api/v1/auth/user/68cab0b2dac32b614466405c HTTP/1.1" 200 -
+2025-09-17 18:37:38,243 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\Test_Gui.py', reloading
+2025-09-17 18:37:39,346 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 18:37:39,733 - app - INFO - Logging configured successfully
+2025-09-17 18:37:39,916 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:37:39,921 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:37:39,921 - app - INFO - Database initialized successfully
+2025-09-17 18:37:42,595 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:37:42,595 - app - INFO - Starting blueprint registration...
+2025-09-17 18:37:43,393 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:37:43,410 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:37:43,443 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:37:43,476 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:37:43,493 - app - INFO - Blueprint registration completed
+2025-09-17 18:37:43,503 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 18:37:43,510 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 18:38:34,042 - app - INFO - Request: POST /api/v1/auth/register from 127.0.0.1
+2025-09-17 18:38:34,047 - database.kyc_repository - INFO - User created with ID: 68cab2d2d234bfb1ecacb709
+2025-09-17 18:38:34,048 - app - INFO - Response: 201 for POST /api/v1/auth/register
+2025-09-17 18:38:34,049 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:38:34] "[35m[1mPOST /api/v1/auth/register HTTP/1.1[0m" 201 -
+2025-09-17 18:39:27,049 - app - INFO - Request: POST /api/v1/kyc/submit from 127.0.0.1
+2025-09-17 18:39:27,090 - app - INFO - Response: 400 for POST /api/v1/kyc/submit
+2025-09-17 18:39:27,093 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:39:27] "[31m[1mPOST /api/v1/kyc/submit HTTP/1.1[0m" 400 -
+2025-09-17 18:42:22,503 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\routes\\auth_routes.py', reloading
+2025-09-17 18:42:23,624 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 18:42:24,039 - app - INFO - Logging configured successfully
+2025-09-17 18:42:24,326 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 18:42:24,381 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 18:42:24,382 - app - INFO - Database initialized successfully
+2025-09-17 18:42:27,420 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 18:42:27,421 - app - INFO - Starting blueprint registration...
+2025-09-17 18:42:28,304 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 18:42:28,342 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:42:28,363 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:42:28,394 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 18:42:28,411 - app - INFO - Blueprint registration completed
+2025-09-17 18:42:28,421 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 18:42:28,427 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 18:44:05,918 - app - INFO - Request: GET /api/v1/auth/revoke-api-key from 127.0.0.1
+2025-09-17 18:44:05,920 - app - INFO - Response: 405 for GET /api/v1/auth/revoke-api-key
+2025-09-17 18:44:05,921 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:44:05] "[31m[1mGET /api/v1/auth/revoke-api-key HTTP/1.1[0m" 405 -
+2025-09-17 18:44:06,224 - app - INFO - Request: GET /favicon.ico from 127.0.0.1
+2025-09-17 18:44:06,226 - app - INFO - Response: 404 for GET /favicon.ico
+2025-09-17 18:44:06,227 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:44:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-17 18:44:10,660 - app - INFO - Request: GET /api/v1/auth/test from 127.0.0.1
+2025-09-17 18:44:10,661 - app - INFO - Response: 200 for GET /api/v1/auth/test
+2025-09-17 18:44:10,662 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:44:10] "GET /api/v1/auth/test HTTP/1.1" 200 -
+2025-09-17 18:44:31,370 - app - INFO - Request: GET /api/v1/auth/user/ from 127.0.0.1
+2025-09-17 18:44:31,372 - app - INFO - Response: 404 for GET /api/v1/auth/user/
+2025-09-17 18:44:31,373 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:44:31] "[33mGET /api/v1/auth/user/ HTTP/1.1[0m" 404 -
+2025-09-17 18:44:39,854 - app - INFO - Request: GET /api/v1/auth/user/68ca6934600da12c74998897 from 127.0.0.1
+2025-09-17 18:44:39,855 - app - INFO - Response: 401 for GET /api/v1/auth/user/68ca6934600da12c74998897
+2025-09-17 18:44:39,855 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:44:39] "[31m[1mGET /api/v1/auth/user/68ca6934600da12c74998897 HTTP/1.1[0m" 401 -
+2025-09-17 18:44:47,616 - app - INFO - Request: GET /api/v1/auth/user/ from 127.0.0.1
+2025-09-17 18:44:47,617 - app - INFO - Response: 404 for GET /api/v1/auth/user/
+2025-09-17 18:44:47,618 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:44:47] "[33mGET /api/v1/auth/user/ HTTP/1.1[0m" 404 -
+2025-09-17 18:44:51,683 - app - INFO - Request: GET /api/v1/auth/user/68ca6934600da12c74998897 from 127.0.0.1
+2025-09-17 18:44:51,684 - app - INFO - Response: 401 for GET /api/v1/auth/user/68ca6934600da12c74998897
+2025-09-17 18:44:51,685 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 18:44:51] "[31m[1mGET /api/v1/auth/user/68ca6934600da12c74998897 HTTP/1.1[0m" 401 -
+2025-09-17 22:58:24,289 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\Test_Gui.py', reloading
+2025-09-17 22:58:26,387 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 22:58:27,532 - app - INFO - Logging configured successfully
+2025-09-17 22:58:27,955 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 22:58:27,981 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 22:58:27,982 - app - INFO - Database initialized successfully
+2025-09-17 22:58:34,993 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 22:58:34,993 - app - INFO - Starting blueprint registration...
+2025-09-17 22:58:36,665 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 22:58:36,719 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 22:58:36,764 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 22:58:36,796 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 22:58:36,846 - app - INFO - Blueprint registration completed
+2025-09-17 22:58:36,879 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 22:58:36,905 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 22:58:48,445 - app - INFO - Request: GET /api/docs from 127.0.0.1
+2025-09-17 22:58:48,447 - app - INFO - Response: 200 for GET /api/docs
+2025-09-17 22:58:48,451 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 22:58:48] "GET /api/docs HTTP/1.1" 200 -
+2025-09-17 22:58:49,722 - app - INFO - Request: GET /api/docs from 127.0.0.1
+2025-09-17 22:58:49,724 - app - INFO - Response: 200 for GET /api/docs
+2025-09-17 22:58:49,726 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 22:58:49] "GET /api/docs HTTP/1.1" 200 -
+2025-09-17 22:58:52,427 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-17 22:58:52,429 - app - INFO - Response: 200 for GET /routes
+2025-09-17 22:58:52,430 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 22:58:52] "GET /routes HTTP/1.1" 200 -
+2025-09-17 22:58:57,875 - app - INFO - Request: GET / from 127.0.0.1
+2025-09-17 22:58:57,876 - app - INFO - Response: 200 for GET /
+2025-09-17 22:58:57,877 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 22:58:57] "GET / HTTP/1.1" 200 -
+2025-09-17 22:59:02,654 - app - INFO - Request: GET /health from 127.0.0.1
+2025-09-17 22:59:02,737 - app - INFO - Response: 200 for GET /health
+2025-09-17 22:59:02,738 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 22:59:02] "GET /health HTTP/1.1" 200 -
+2025-09-17 22:59:33,668 - app - INFO - Request: GET /health from 127.0.0.1
+2025-09-17 22:59:33,742 - app - INFO - Response: 200 for GET /health
+2025-09-17 22:59:33,744 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 22:59:33] "GET /health HTTP/1.1" 200 -
+2025-09-17 22:59:57,280 - app - INFO - Request: GET /api/docs from 127.0.0.1
+2025-09-17 22:59:57,283 - app - INFO - Response: 200 for GET /api/docs
+2025-09-17 22:59:57,285 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 22:59:57] "GET /api/docs HTTP/1.1" 200 -
+2025-09-17 23:00:20,908 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-17 23:00:20,912 - app - INFO - Response: 200 for GET /routes
+2025-09-17 23:00:20,914 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 23:00:20] "GET /routes HTTP/1.1" 200 -
+2025-09-17 23:13:39,015 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\Test_Gui.py', reloading
+2025-09-17 23:13:40,513 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 23:13:41,727 - app - INFO - Logging configured successfully
+2025-09-17 23:13:42,109 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 23:13:42,128 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 23:13:42,128 - app - INFO - Database initialized successfully
+2025-09-17 23:13:48,030 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 23:13:48,031 - app - INFO - Starting blueprint registration...
+2025-09-17 23:13:49,547 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 23:13:49,609 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 23:13:49,648 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 23:13:49,685 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 23:13:49,738 - app - INFO - Blueprint registration completed
+2025-09-17 23:13:49,772 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 23:13:49,799 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 23:21:33,759 - werkzeug - INFO -  * Detected change in 'D:\\AI-Enabled-KYC_2\\backend\\Test_Gui.py', reloading
+2025-09-17 23:21:35,089 - werkzeug - INFO -  * Restarting with stat
+2025-09-17 23:21:35,949 - app - INFO - Logging configured successfully
+2025-09-17 23:21:36,327 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-17 23:21:36,337 - database.db_connection - INFO - Database indexes created successfully
+2025-09-17 23:21:36,338 - app - INFO - Database initialized successfully
+2025-09-17 23:21:41,977 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-17 23:21:41,977 - app - INFO - Starting blueprint registration...
+2025-09-17 23:21:43,535 - blockchain.blockchain_utils - INFO - Web3 connection established
+2025-09-17 23:21:43,614 - blockchain.smart_contract - INFO - Smart contract initialized at address: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 23:21:43,660 - blockchain.transaction_handler - INFO - Transaction handler initialized with account: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 23:21:43,740 - services.blockchain_service - INFO - Blockchain account initialized: 0xcc7AF4DF09518cE8E44A4bC24b1133E3824bdB5d
+2025-09-17 23:21:43,807 - app - INFO - Blueprint registration completed
+2025-09-17 23:21:43,853 - werkzeug - WARNING -  * Debugger is active!
+2025-09-17 23:21:43,886 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-17 23:21:49,135 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-17 23:21:49,136 - app - INFO - Response: 200 for GET /routes
+2025-09-17 23:21:49,138 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 23:21:49] "GET /routes HTTP/1.1" 200 -
+2025-09-18 08:45:02,061 - app - INFO - Logging configured successfully

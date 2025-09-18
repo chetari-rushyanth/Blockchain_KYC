@@ -1,0 +1,22 @@
+{
+  "email": "jane.doe@example.com",
+  "full_name": "Jane Doe",
+  "phone_number": "5551234567",
+  "date_of_birth": "1990-05-15",
+  "nationality": "American"
+}
+
+output
+
+{
+    "message": "User registered successfully",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjhjYTY5MzQ2MDBkYTEyYzc0OTk4ODk3IiwidXNlcl9yb2xlIjoidXNlciIsImlhdCI6MTc1ODA5NTY2OCwiZXhwIjoxNzg5MTk5NjY4fQ.9ggJq7FXDgqsKpgQsdlZpOXCV31bKPlROYMENKArmBc",
+    "user": {
+        "email": "jane.doe@example.com",
+        "full_name": "Jane Doe",
+        "kyc_status": "not_submitted",
+        "phone_number": "5551234567",
+        "user_id": "68ca6934600da12c74998897"
+    },
+    "user_id": "68ca6934600da12c74998897"
+}t
