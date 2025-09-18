@@ -1520,3 +1520,38 @@ werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not at
 2025-09-17 23:21:49,136 - app - INFO - Response: 200 for GET /routes
 2025-09-17 23:21:49,138 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 23:21:49] "GET /routes HTTP/1.1" 200 -
 2025-09-18 08:45:02,061 - app - INFO - Logging configured successfully
+2025-09-18 08:45:07,329 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-18 08:45:07,343 - database.db_connection - INFO - Database indexes created successfully
+2025-09-18 08:45:07,343 - app - INFO - Database initialized successfully
+2025-09-18 08:46:21,781 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-18 08:46:21,782 - app - INFO - Starting blueprint registration...
+2025-09-18 08:46:36,937 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-18 08:46:39,024 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-18 08:46:41,109 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-18 08:46:43,155 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-18 08:46:43,293 - app - INFO - Blueprint registration completed
+2025-09-18 08:46:43,645 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-09-18 08:46:43,647 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-18 08:46:43,687 - werkzeug - INFO -  * Restarting with stat
+2025-09-18 08:46:44,385 - app - INFO - Logging configured successfully
+2025-09-18 08:46:44,712 - database.db_connection - INFO - Successfully connected to MongoDB: MONGODB_DB
+2025-09-18 08:46:44,736 - database.db_connection - INFO - Database indexes created successfully
+2025-09-18 08:46:44,737 - app - INFO - Database initialized successfully
+2025-09-18 08:46:49,536 - app - INFO - Model loader initialized (models will load on demand)
+2025-09-18 08:46:49,537 - app - INFO - Starting blueprint registration...
+2025-09-18 08:46:53,003 - blockchain.blockchain_utils - ERROR - Failed to establish Web3 connection
+2025-09-18 08:46:55,054 - blockchain.smart_contract - ERROR - Failed to connect to Ethereum node
+2025-09-18 08:46:57,113 - blockchain.transaction_handler - ERROR - Failed to connect to Ethereum node
+2025-09-18 08:46:59,157 - services.blockchain_service - ERROR - Failed to connect to Ethereum node
+2025-09-18 08:46:59,230 - app - INFO - Blueprint registration completed
+2025-09-18 08:46:59,286 - werkzeug - WARNING -  * Debugger is active!
+2025-09-18 08:46:59,348 - werkzeug - INFO -  * Debugger PIN: 463-267-638
+2025-09-18 08:47:43,493 - app - INFO - Request: GET /routes from 127.0.0.1
+2025-09-18 08:47:43,496 - app - INFO - Response: 200 for GET /routes
+2025-09-18 08:47:43,498 - werkzeug - INFO - 127.0.0.1 - - [18/Sep/2025 08:47:43] "GET /routes HTTP/1.1" 200 -
+2025-09-18 08:48:18,370 - app - INFO - Request: OPTIONS /api/v1/auth/register from 127.0.0.1
+2025-09-18 08:48:18,372 - app - INFO - Response: 200 for OPTIONS /api/v1/auth/register
+2025-09-18 08:48:18,374 - werkzeug - INFO - 127.0.0.1 - - [18/Sep/2025 08:48:18] "OPTIONS /api/v1/auth/register HTTP/1.1" 200 -
